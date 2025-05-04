@@ -1,1 +1,0 @@
-# Azure_netflix_project
